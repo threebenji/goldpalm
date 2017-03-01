@@ -9,7 +9,7 @@ include "./src/Utils.php";
  */
 try {
     $test = new \Three\GoldPalm\GoldPalm(['env' => 'test', 'username' => 'goldpalm-a1', 'password' => 'goldpalm789']);
-    $res = $test->submit([
+    $test->submit([
         'version' => 'dljn2014',
         'travel_name' => '张三',
         'travel_tel' => '13800138000',
