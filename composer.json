@@ -11,9 +11,9 @@
     }
   ],
   "autoload": {
-    "psr-4": {"GoldPalm\\": "src/"}
+    "psr-4": {"ThreeBenji\\GoldPalm\\": "src/"}
   },
   "autoload-dev": {
-    "psr-4": {"GoldPalm\\": "src/"}
+    "psr-4": {"ThreeBenji\\GoldPalm\\": "src/"}
   }
 }
