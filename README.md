@@ -1,7 +1,7 @@
 # 金棕榈合同 
 ##安装
     
-    composer require threebenji/glodpalm:"v1"
+    composer require threebenji/glodpalm:"dev-master"
 
 ##实例化
     
