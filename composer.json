@@ -10,9 +10,10 @@
       "email": "three.benji@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {"GoldPalm\\": "src/"}
+  },
   "autoload-dev": {
-    "classmap": [
-      "src/"
-    ]
+    "psr-4": {"GoldPalm\\": "src/"}
   }
 }
