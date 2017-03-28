@@ -1,5 +1,5 @@
 <?php
-namespace Three\GoldPalm;
+namespace ThreeBenji\GoldPalm;
 /**
  * Created by PhpStorm.
  * User: yan
